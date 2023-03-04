@@ -4,7 +4,7 @@ fx_version 'cerulean'
 
 game 'gta5'
 
-author 'with love by MonkeyWhisper#0001'
+author 'GLDNRMZ#8700'
 
 client_scripts {
 	"client/functions.lua",
