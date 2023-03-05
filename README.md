@@ -4,9 +4,9 @@ Used hack and ped randomizations from [Randolio Black Market](https://github.com
 
 Drop into resources and start.
 
-Change to your drugs/prices in the Config
+#Change to your drugs/prices in the Config
 
-Config.Items = {
+```Config.Items = {
     ["meth"] = {
         ["price"] = math.random(100, 150)
     },
@@ -28,4 +28,4 @@ Config.Items = {
     ["moonshine"] = {
         ["price"] = math.random(100, 150)
     },
-}
+}```
