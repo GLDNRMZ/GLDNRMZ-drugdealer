@@ -28,4 +28,4 @@ Drop into resources and start.
     ["moonshine"] = {
         ["price"] = math.random(100, 150)
     },
-}```
+}
