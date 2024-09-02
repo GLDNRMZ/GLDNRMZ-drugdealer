@@ -1,4 +1,4 @@
-# lb-drugdealer
+# GLDNRMZ-drugdealer
 
 Used hack and ped randomizations from [Randolio Black Market](https://github.com/Randolio/randol_blackmarket)
 
