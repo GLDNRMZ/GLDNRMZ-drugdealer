@@ -6,8 +6,6 @@ Drop into resources and start.
 
 # Change to your drugs/prices in the Config
 
-```
-
 Config.Items = {
     ["meth"] = {
         ["price"] = math.random(100, 150)
