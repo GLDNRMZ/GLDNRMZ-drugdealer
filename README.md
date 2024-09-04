@@ -29,7 +29,8 @@ Config.Items = {
     ["moonshine"] = {
         ["price"] = math.random(100, 150)
     },
-}```
+}
+```
 
 ## Dependencies:
 [mhacking](https://github.com/justgreatgaming/FiveM-Scripts-2)
