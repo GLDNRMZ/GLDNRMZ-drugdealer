@@ -6,6 +6,7 @@ Drop into resources and start.
 
 # Change to your drugs/prices in the Config
 
+```lua
 Config.Items = {
     ["meth"] = {
         ["price"] = math.random(100, 150)
@@ -28,7 +29,7 @@ Config.Items = {
     ["moonshine"] = {
         ["price"] = math.random(100, 150)
     },
-}
+}```
 
 ## Dependencies:
 [mhacking](https://github.com/justgreatgaming/FiveM-Scripts-2)
